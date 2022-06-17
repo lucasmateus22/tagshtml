@@ -1,0 +1,73 @@
+body{background-color: rgb(155, 155, 155);
+    font-size: large;
+    color: black;
+    text-align: center;
+
+}
+
+main{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+div{
+    display: flex;
+    justify-content: right;
+    height: 10%;
+    width: 10px;
+}
+.strong{
+    
+    color: rgb(0, 0, 0);
+}
+.linha{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 1px;
+    width: 100%
+}
+.span{
+    
+    background-color: rgb(194, 144, 144);
+    border-radius: 4px;
+    
+}
+img{
+    
+    max-width: 400px;
+    max-height: 325px;
+
+
+}
+figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: white;
+
+}
+figcaption{
+    max-width: 225px;
+    border-radius: 4px;
+    background-color: rgb(134, 134, 134);
+text-align: center;
+padding: 2px;
+
+}
+section{
+    background-color: rgb(104, 104, 104);
+    border-radius: 5px;
+
+    width: 60%;
+}
+div{
+    
+    height: 30px;
+    width: 100px;
+}
+
